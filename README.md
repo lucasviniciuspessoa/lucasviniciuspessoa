@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=F7F7F7&width=900&lines=+Ol%C3%A1%2C+Eu+sou+o+Lucas França+seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=F7F7F7&width=900&lines=+Ol%C3%A1%2C+Eu+sou+o+Lucas França+seja+bem-vindo" alt="Typing SVG" />
 </p>
 
 ## 📖 Sobre mim
